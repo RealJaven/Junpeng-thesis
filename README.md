@@ -49,8 +49,8 @@ https://drive.google.com/file/d/1CMFyE-5hfnULCL_FHFY3jdBxEV4IyF6S/view?usp=drive
 - **Run**: After loading your images, click here to start the object detection process. The progress will be shown in 
 the green progress bar at the top.
 
-![alt text](https://github.com/RealJaven/Junpeng-thesis-2023S1/blob/main/readme_img/1.PNG?raw=true)
-![alt text](https://github.com/RealJaven/Junpeng-thesis-2023S1/blob/main/readme_img/2.PNG?raw=true)
+![alt text](https://github.com/RealJaven/Junpeng-thesis/blob/main/readme_img/1.PNG?raw=true)
+![alt text](https://github.com/RealJaven/Junpeng-thesis/blob/main/readme_img/2.PNG?raw=true)
 
 ### Navigation and Statistics
 
@@ -75,8 +75,8 @@ and then clicking on the 'Change Label' button.
 - A dialog box will appear where you can choose the correct label from a dropdown menu.
 - After selecting the new label, click 'OK' to confirm the change or 'Cancel' to keep the previous label.
 
-![alt text](https://github.com/RealJaven/Junpeng-thesis-2023S1/blob/main/readme_img/4.PNG?raw=true)
-![alt text](https://github.com/RealJaven/Junpeng-thesis-2023S1/blob/main/readme_img/5.PNG?raw=true)
+![alt text](https://github.com/RealJaven/Junpeng-thesis/blob/main/readme_img/4.PNG?raw=true)
+![alt text](https://github.com/RealJaven/Junpeng-thesis/blob/main/readme_img/5.PNG?raw=true)
 
 
 ## Label Management and Output
@@ -90,7 +90,7 @@ Each image in your dataset will have a corresponding label file detailing the bo
 - **`modified-labels/`**: This directory is dynamically updated to reflect any changes made by the user through the GUI.
 When a user modifies a label via the GUI, the corresponding label file in this folder is updated to reflect the change.
 
-![alt text](https://github.com/RealJaven/Junpeng-thesis-2023S1/blob/main/readme_img/6.PNG?raw=true)
+![alt text](https://github.com/RealJaven/Junpeng-thesis/blob/main/readme_img/6.PNG?raw=true)
 
 
 ### Understanding the Label Files
